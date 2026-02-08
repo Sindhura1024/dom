@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+
+.box{
+    margin: 10px;
+}
+
+.apply-styles{
+    background-color: grey;
+    color: aqua;
+}
